@@ -1,5 +1,4 @@
 # Geology_Assessment
 
-This is the file when I used performing Geology assessment.
-
+This repository provides codes for the geology assessment.
 
